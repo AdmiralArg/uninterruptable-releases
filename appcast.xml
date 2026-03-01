@@ -3,13 +3,25 @@
     <channel>
         <title>Uninterruptable</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Sun, 01 Mar 2026 17:50:18 +0100</pubDate>
+            <sparkle:version>1.0.3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/AdmiralArg/uninterruptable-releases/releases/download/v1.0.3/Uninterruptable-1.0.3.dmg" length="1767443" type="application/octet-stream" sparkle:edSignature="qN+iPuLAPnCi6mg4/GrQUPrMyMMcMUf/GLnZhc/thqsmwvyT7YocKJn4aZIIdgpapfFrmeoChToPjE2noIv5Dg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://AdmiralArg.github.io/uninterruptable-releases/Uninterruptable1.0.3-1.0.2.delta" sparkle:deltaFrom="1.0.2" length="34278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="n9RYQkZaNGJvST1gnu5DMuqsfjTO5V6D5cvid1g//RBNjtJmG6aYQ7xvX19bW9J7o2Rgee5NNp6FkksbBPQvCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Sun, 01 Mar 2026 17:44:53 +0100</pubDate>
             <sparkle:version>1.0.2</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/AdmiralArg/uninterruptable-releases/releases/download/v1.0.2/Uninterruptable-1.0.2.dmg" length="1766244" type="application/octet-stream" sparkle:edSignature="iDcQm/ALLZvqmVM/Ckw9uOX3uXY/vrlZtxAcPwIhhv4fwc5Z56tbFBf/q6Pvj/4q6RcSvtcdHWwYpTSUFXfqCA=="/>
+            <enclosure url="https://AdmiralArg.github.io/uninterruptable-releases/Uninterruptable-1.0.2.dmg" length="1766244" type="application/octet-stream" sparkle:edSignature="iDcQm/ALLZvqmVM/Ckw9uOX3uXY/vrlZtxAcPwIhhv4fwc5Z56tbFBf/q6Pvj/4q6RcSvtcdHWwYpTSUFXfqCA=="/>
             <sparkle:deltas>
                 <enclosure url="https://AdmiralArg.github.io/uninterruptable-releases/Uninterruptable1.0.2-1.0.1.delta" sparkle:deltaFrom="1.0.1" length="1150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KdOrjomDjaXodoa0ehgQwl4ZN4igTu+CPXGy8EDs+AWF8ApUYhKib7/dBrnzdBxa2fUAgSYQ0C5Q1SRa5LHwDg=="/>
             </sparkle:deltas>
@@ -25,15 +37,6 @@
             <sparkle:deltas>
                 <enclosure url="https://AdmiralArg.github.io/uninterruptable-releases/Uninterruptable1.0.1-1.0.0.delta" sparkle:deltaFrom="1.0.0" length="557982" type="application/octet-stream" sparkle:edSignature="HiDmZPDrRFwzs4RwovqFyMJp8Ran0wdKLFqDVqprBeqHEekgZZGN9WvN6cnAkdZlpdyfuPDH1tATntiqcwQjDw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sun, 01 Mar 2026 17:39:45 +0100</pubDate>
-            <sparkle:version>1.0.0</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://AdmiralArg.github.io/uninterruptable-releases/Uninterruptable-1.0.0.dmg" length="747359" type="application/octet-stream" sparkle:edSignature="kR/X9BWEqbuOAojC1e2oy/XqUoWFE+rgRPjviZBRq8Tyva4tZcrOPmLzBWOWJa4Q15zasDwSn391DflKLh6iBw=="/>
         </item>
     </channel>
 </rss>
